@@ -1,5 +1,5 @@
-📚 Hybrid PDF Q&A System using RAG
-An AI-powered PDF Question-Answering System built using Streamlit, combining semantic search (FAISS) and keyword search (BM25) with optional Qdrant vector database and Groq LLM for fast, accurate responses.
+📚 Hybrid CHATBOT System using RAG
+An AI-powered Question-Answering System built using Streamlit, combining semantic search (FAISS) and keyword search (BM25) with optional Qdrant vector database and Groq LLM for fast, accurate responses.
 ---
 🚀 Features
 📄 Upload and process multiple PDF documents
